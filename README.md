@@ -36,7 +36,7 @@
 ## Установка
 
 ```bash
-git clone
+git clone git@github.com:Azamat-Usmanov/deep-cv-hw2.git
 cd deep-cv-hw2
 python3.10 -m venv .venv
 source .venv/bin/activate
